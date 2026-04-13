@@ -24,4 +24,4 @@ Este repositório contém um dashboard desenvolvido no Power BI. O objetivo dest
 4. Caso as fontes de dados não carreguem, atualize o caminho dos arquivos na pasta `/data`.
 
 ---
-Desenvolvido por [Seu Nome]
+Desenvolvido por Messias, para estudos. 
