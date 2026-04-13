@@ -1,0 +1,8 @@
+# Power BI
+*.bak
+*.pbit
+/MemoryUsage/
+
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
